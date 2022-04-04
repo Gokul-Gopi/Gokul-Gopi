@@ -1,6 +1,9 @@
 # Hey there, Myself Gokul Gopi!👋
-
 I’m a full stack developer.
+
+
+## :office_worker: Currently
+Working as Software Developer @mtechzilla
 
 ## 🛠 Tech stuff i know 
 
