@@ -3,7 +3,7 @@ I’m a full stack developer.
 
 
 ## :office_worker: Currently
-Working as Software Developer @codebuddy
+Working as Frontend developer @codebuddy
 
 ## 🛠 Tech stuff i know 
 
